@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 
 Inserting the image here:
 
-<img src="trackvis.png" alt="drawing" style="width:200px;"/>
+<p align="center">
+<img src="trackvis.png" alt="drawing" style="width:500px;"/>
+</p>
 [comment]: <> (![Reference](trackvis.png))
