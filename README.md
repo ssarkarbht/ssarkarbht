@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 Inserting the image here:
 
-![Reference](TrackVisualization.pdf)
+![Reference](trackvis.png)
