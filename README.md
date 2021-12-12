@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 -->
 
-#Machine Learning in PhD Thesis
+# Machine Learning Application in PhD Thesis
 
 ---
 
-Inserting the image here:
+**Event Classification using Graph Convolutional Neural Network (GCN):** ![PathToOtherPage](click here) 
 
 <p align="center">
 <img src="trackvis.png" alt="drawing" style="width:500px;"/>
