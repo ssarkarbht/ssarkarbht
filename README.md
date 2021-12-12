@@ -13,4 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
 -->
+
+#Machine Learning in PhD Thesis
+
+---
+
+Inserting the image here:
+
+![Reference](TrackVisualization.pdf)
