@@ -17,12 +17,29 @@ Here are some ideas to get you started:
 
 
 -->
+# Welcome to my GitHub profile ...
 
-# Machine Learning Application in PhD Thesis
+---
+> - **Introduction:** I am currently a graduate researcher working in neutrino physics data analytics with [IceCube Neutrino Experiment](https://github.com/icecube).
+> - **Current Research:** My current research primarily focuses on developing new physics simulations of neutrino trident interactions ([click here](https://pic-pac.cap.ca/index.php/Issues/showpdf/article/v75n1.0-a4075.pdf) for more details) and building trident event search analysis framework for IceCube data using feature engineering and deep learning classifier.
+> - **Pronouns:** He/Him
+> - **Email:** souraviiser@gmail.com
 
 ---
 
-**Event Classification using Graph Convolutional Neural Network (GCN):** ![PathToOtherPage](click here) 
+# Profile Content
+
+---
+- PhD Research Projects
+	- Event Classification using Graph Convolutional Neural Network
+	- Neutrino Trident Monte Carlo Event Generator
+- Academic Works
+	
+---
+
+## Machine Learning Application in PhD Thesis
+
+**Event Classification using Graph Convolutional Neural Network (GCN):** ![GitHub Repo](https://github.com/ssarkarbht/TridentGNNClassifier) 
 
 <p align="center">
 <img src="trackvis.png" alt="drawing" style="width:500px;"/>
