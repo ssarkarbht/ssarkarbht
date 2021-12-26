@@ -44,4 +44,5 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="trackvis.png" alt="drawing" style="width:500px;"/>
 </p>
-[comment]: <> (![Reference](trackvis.png))
+
+
