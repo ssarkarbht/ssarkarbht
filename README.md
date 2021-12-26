@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 **Event Classification using Graph Convolutional Neural Network (GCN):** ![GitHub Repo](https://github.com/ssarkarbht/TridentGNNClassifier) 
 
 <p align="center">
-<img src="trackvis.png" alt="drawing" style="width:500px;"/>
+<img src="TrackVis.png" alt="drawing" style="width:500px;"/>
 </p>
 
 
