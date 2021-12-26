@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 	- Event Classification using Graph Convolutional Neural Network
 	- Neutrino Trident Monte Carlo Event Generator
 - Academic Works
-	
+	- Poster presentation at Weak Interactions and Neutrinos (WIN) 2021 conference ([link](https://github.com/ssarkarbht/AcademicWorks/blob/master/WIN_2021_Poster.pdf))
+	- Literature review on Markov Chain Monte Carlo (MCMC) and Optimization ([link](https://github.com/ssarkarbht/AcademicWorks/blob/master/MCMCOptimization.pdf))
+	- Monte Carlo simulation of neutrino beam at T2K experiment ([link](https://github.com/ssarkarbht/AcademicWorks/blob/master/NeutrinoBeamSimulation.pdf))
 ---
 
 ## Machine Learning Application in PhD Thesis
@@ -45,4 +47,13 @@ Here are some ideas to get you started:
 <img src="TrackVis.png" alt="drawing" style="width:500px;"/>
 </p>
 
+- Describe the events
+- Describe the detector
+- Describe data
+- Describe GNN architecture
+
+## Neutrino Trident Event Generator (Monte Carlo simulation)
+
+- Describe the physics
+- Describe the generator
 
